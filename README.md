@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, music, cold coffee, free burritos and helping others.
 - 🌱 I’m currently learning web development/python
 - 💞️ I’m looking to collaborate on project that promote diversity of all ethnicities/sexes/races/lgbt equally 
-and fair to make the world a better and harmonious place.
+and fair treatment to make the world a better and harmonious place.
 - 📫 How to reach me: niambailey@gmail.com
 
 <!---
